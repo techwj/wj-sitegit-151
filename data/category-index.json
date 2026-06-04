@@ -1,0 +1,794 @@
+{
+  "beginner-soap-candle-making": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-soap-candle-making",
+      "title": "The Ultimate Guide to Beginner Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.325776",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Soap Candle Making",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-soap-candle-making-everything-you-need-to-know",
+      "title": "Beginner Soap Candle Making: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.325830",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Beginner Soap Candle Making: Everything You Need to Know",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-soap-candle-making",
+      "title": "Understanding Beginner Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.325861",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Understanding Beginner Soap Candle Making",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-soap-candle-making-tips-and-best-practices",
+      "title": "Beginner Soap Candle Making Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.325889",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Beginner Soap Candle Making Tips and Best Practices",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-soap-candle-making",
+      "title": "The History of Beginner Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.325919",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: The History of Beginner Soap Candle Making",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-soap-candle-making-in-2026-current-trends",
+      "title": "Beginner Soap Candle Making in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.325946",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Beginner Soap Candle Making in 2026: Current Trends",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-soap-candle-making",
+      "title": "Future of Beginner Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.325975",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Future of Beginner Soap Candle Making",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-soap-candle-making",
+      "title": "Common Mistakes in Beginner Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326001",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Common Mistakes in Beginner Soap Candle Making",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-soap-candle-making-for-beginners",
+      "title": "Beginner Soap Candle Making for Beginners",
+      "created_at": "2026-06-04T11:36:45.326029",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Beginner Soap Candle Making for Beginners",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-soap-candle-making-techniques",
+      "title": "Advanced Beginner Soap Candle Making Techniques",
+      "created_at": "2026-06-04T11:36:45.326054",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Advanced Beginner Soap Candle Making Techniques",
+        "width": 851,
+        "height": 580
+      }
+    }
+  ],
+  "advanced-soap-candle-making": [
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-soap-candle-making",
+      "title": "The Ultimate Guide to Advanced Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326283",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Soap Candle Making",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-soap-candle-making-everything-you-need-to-know",
+      "title": "Advanced Soap Candle Making: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.326308",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Advanced Soap Candle Making: Everything You Need to Know",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-soap-candle-making",
+      "title": "Understanding Advanced Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326337",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Understanding Advanced Soap Candle Making",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-soap-candle-making-tips-and-best-practices",
+      "title": "Advanced Soap Candle Making Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.326363",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Advanced Soap Candle Making Tips and Best Practices",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-soap-candle-making",
+      "title": "The History of Advanced Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326390",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: The History of Advanced Soap Candle Making",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-soap-candle-making-in-2026-current-trends",
+      "title": "Advanced Soap Candle Making in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.326416",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Advanced Soap Candle Making in 2026: Current Trends",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-soap-candle-making",
+      "title": "Future of Advanced Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326443",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Future of Advanced Soap Candle Making",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-soap-candle-making",
+      "title": "Common Mistakes in Advanced Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.326468",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Common Mistakes in Advanced Soap Candle Making",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-soap-candle-making-for-beginners",
+      "title": "Advanced Soap Candle Making for Beginners",
+      "created_at": "2026-06-04T11:36:45.326493",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Advanced Soap Candle Making for Beginners",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-soap-candle-making-techniques",
+      "title": "Advanced Advanced Soap Candle Making Techniques",
+      "created_at": "2026-06-04T11:36:45.326519",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Advanced Advanced Soap Candle Making Techniques",
+        "width": 838,
+        "height": 566
+      }
+    }
+  ],
+  "tips-soap-candle-making": [
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-soap-candle-making-tips",
+      "title": "The Ultimate Guide to Soap Candle Making Tips",
+      "created_at": "2026-06-04T11:36:45.326744",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: The Ultimate Guide to Soap Candle Making Tips",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 38,
+      "slug": "soap-candle-making-tips-everything-you-need-to-know",
+      "title": "Soap Candle Making Tips: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.326769",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Soap Candle Making Tips: Everything You Need to Know",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-soap-candle-making-tips",
+      "title": "Understanding Soap Candle Making Tips",
+      "created_at": "2026-06-04T11:36:45.326796",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Understanding Soap Candle Making Tips",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 40,
+      "slug": "soap-candle-making-tips-tips-and-best-practices",
+      "title": "Soap Candle Making Tips Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.326822",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Soap Candle Making Tips Tips and Best Practices",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-soap-candle-making-tips",
+      "title": "The History of Soap Candle Making Tips",
+      "created_at": "2026-06-04T11:36:45.326851",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: The History of Soap Candle Making Tips",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 42,
+      "slug": "soap-candle-making-tips-in-2026-current-trends",
+      "title": "Soap Candle Making Tips in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.326877",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Soap Candle Making Tips in 2026: Current Trends",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-soap-candle-making-tips",
+      "title": "Future of Soap Candle Making Tips",
+      "created_at": "2026-06-04T11:36:45.326902",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Future of Soap Candle Making Tips",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-soap-candle-making-tips",
+      "title": "Common Mistakes in Soap Candle Making Tips",
+      "created_at": "2026-06-04T11:36:45.326931",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Common Mistakes in Soap Candle Making Tips",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 45,
+      "slug": "soap-candle-making-tips-for-beginners",
+      "title": "Soap Candle Making Tips for Beginners",
+      "created_at": "2026-06-04T11:36:45.326958",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Soap Candle Making Tips for Beginners",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-soap-candle-making-tips-techniques",
+      "title": "Advanced Soap Candle Making Tips Techniques",
+      "created_at": "2026-06-04T11:36:45.326983",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Advanced Soap Candle Making Tips Techniques",
+        "width": 849,
+        "height": 590
+      }
+    }
+  ],
+  "history-soap-candle-making": [
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-soap-candle-making-history",
+      "title": "The Ultimate Guide to Soap Candle Making History",
+      "created_at": "2026-06-04T11:36:45.327207",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: The Ultimate Guide to Soap Candle Making History",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 56,
+      "slug": "soap-candle-making-history-everything-you-need-to-know",
+      "title": "Soap Candle Making History: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.327233",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Soap Candle Making History: Everything You Need to Know",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-soap-candle-making-history",
+      "title": "Understanding Soap Candle Making History",
+      "created_at": "2026-06-04T11:36:45.327260",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Understanding Soap Candle Making History",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 58,
+      "slug": "soap-candle-making-history-tips-and-best-practices",
+      "title": "Soap Candle Making History Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.327285",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Soap Candle Making History Tips and Best Practices",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-soap-candle-making-history",
+      "title": "The History of Soap Candle Making History",
+      "created_at": "2026-06-04T11:36:45.327310",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: The History of Soap Candle Making History",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 60,
+      "slug": "soap-candle-making-history-in-2026-current-trends",
+      "title": "Soap Candle Making History in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.327335",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Soap Candle Making History in 2026: Current Trends",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-soap-candle-making-history",
+      "title": "Future of Soap Candle Making History",
+      "created_at": "2026-06-04T11:36:45.327362",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Future of Soap Candle Making History",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-soap-candle-making-history",
+      "title": "Common Mistakes in Soap Candle Making History",
+      "created_at": "2026-06-04T11:36:45.327389",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Common Mistakes in Soap Candle Making History",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 63,
+      "slug": "soap-candle-making-history-for-beginners",
+      "title": "Soap Candle Making History for Beginners",
+      "created_at": "2026-06-04T11:36:45.327415",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Soap Candle Making History for Beginners",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-soap-candle-making-history-techniques",
+      "title": "Advanced Soap Candle Making History Techniques",
+      "created_at": "2026-06-04T11:36:45.327440",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Advanced Soap Candle Making History Techniques",
+        "width": 851,
+        "height": 580
+      }
+    }
+  ],
+  "trending-soap-candle-making": [
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-soap-candle-making",
+      "title": "The Ultimate Guide to Trending Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.327667",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: The Ultimate Guide to Trending Soap Candle Making",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-soap-candle-making-everything-you-need-to-know",
+      "title": "Trending Soap Candle Making: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.327692",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Trending Soap Candle Making: Everything You Need to Know",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-soap-candle-making",
+      "title": "Understanding Trending Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.327718",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Understanding Trending Soap Candle Making",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-soap-candle-making-tips-and-best-practices",
+      "title": "Trending Soap Candle Making Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.327745",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Trending Soap Candle Making Tips and Best Practices",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-soap-candle-making",
+      "title": "The History of Trending Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.327784",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: The History of Trending Soap Candle Making",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-soap-candle-making-in-2026-current-trends",
+      "title": "Trending Soap Candle Making in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.327812",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Trending Soap Candle Making in 2026: Current Trends",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-soap-candle-making",
+      "title": "Future of Trending Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.327837",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Future of Trending Soap Candle Making",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-soap-candle-making",
+      "title": "Common Mistakes in Trending Soap Candle Making",
+      "created_at": "2026-06-04T11:36:45.327861",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Common Mistakes in Trending Soap Candle Making",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-soap-candle-making-for-beginners",
+      "title": "Trending Soap Candle Making for Beginners",
+      "created_at": "2026-06-04T11:36:45.327887",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Trending Soap Candle Making for Beginners",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-soap-candle-making-techniques",
+      "title": "Advanced Trending Soap Candle Making Techniques",
+      "created_at": "2026-06-04T11:36:45.327912",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Advanced Trending Soap Candle Making Techniques",
+        "width": 851,
+        "height": 580
+      }
+    }
+  ],
+  "tutorials-soap-candle-making": [
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-soap-candle-making-tutorials",
+      "title": "The Ultimate Guide to Soap Candle Making Tutorials",
+      "created_at": "2026-06-04T11:36:45.328140",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: The Ultimate Guide to Soap Candle Making Tutorials",
+        "width": 849,
+        "height": 590
+      }
+    },
+    {
+      "id": 92,
+      "slug": "soap-candle-making-tutorials-everything-you-need-to-know",
+      "title": "Soap Candle Making Tutorials: Everything You Need to Know",
+      "created_at": "2026-06-04T11:36:45.328165",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Soap Candle Making Tutorials: Everything You Need to Know",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-soap-candle-making-tutorials",
+      "title": "Understanding Soap Candle Making Tutorials",
+      "created_at": "2026-06-04T11:36:45.328192",
+      "image": {
+        "id": "855fc7db2ef05500fce882854112b3c028505d8cdd42884124e4b4f1f08ff521",
+        "url": "https://picsum.photos/838/566?random=544",
+        "alt": "Featured image for: Understanding Soap Candle Making Tutorials",
+        "width": 838,
+        "height": 566
+      }
+    },
+    {
+      "id": 94,
+      "slug": "soap-candle-making-tutorials-tips-and-best-practices",
+      "title": "Soap Candle Making Tutorials Tips and Best Practices",
+      "created_at": "2026-06-04T11:36:45.328217",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Soap Candle Making Tutorials Tips and Best Practices",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-soap-candle-making-tutorials",
+      "title": "The History of Soap Candle Making Tutorials",
+      "created_at": "2026-06-04T11:36:45.328244",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: The History of Soap Candle Making Tutorials",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 96,
+      "slug": "soap-candle-making-tutorials-in-2026-current-trends",
+      "title": "Soap Candle Making Tutorials in 2026: Current Trends",
+      "created_at": "2026-06-04T11:36:45.328269",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Soap Candle Making Tutorials in 2026: Current Trends",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-soap-candle-making-tutorials",
+      "title": "Future of Soap Candle Making Tutorials",
+      "created_at": "2026-06-04T11:36:45.328296",
+      "image": {
+        "id": "57c3577e00c9a058b2fc91cb4234ca464b13d25f0088eac0d7d2e7efe0e1368d",
+        "url": "https://picsum.photos/934/543?random=142",
+        "alt": "Featured image for: Future of Soap Candle Making Tutorials",
+        "width": 934,
+        "height": 543
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-soap-candle-making-tutorials",
+      "title": "Common Mistakes in Soap Candle Making Tutorials",
+      "created_at": "2026-06-04T11:36:45.328321",
+      "image": {
+        "id": "14144b66eadcaa309dca98167734f765bf774b9669634d9dc064250cdd6289e9",
+        "url": "https://picsum.photos/851/580?random=748",
+        "alt": "Featured image for: Common Mistakes in Soap Candle Making Tutorials",
+        "width": 851,
+        "height": 580
+      }
+    },
+    {
+      "id": 99,
+      "slug": "soap-candle-making-tutorials-for-beginners",
+      "title": "Soap Candle Making Tutorials for Beginners",
+      "created_at": "2026-06-04T11:36:45.328346",
+      "image": {
+        "id": "b960eb906cee863ae78387cfaa70bebeda52d97ce2334fc0a34a1a09aa1e9864",
+        "url": "https://picsum.photos/1087/467?random=953",
+        "alt": "Featured image for: Soap Candle Making Tutorials for Beginners",
+        "width": 1087,
+        "height": 467
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-soap-candle-making-tutorials-techniques",
+      "title": "Advanced Soap Candle Making Tutorials Techniques",
+      "created_at": "2026-06-04T11:36:45.328371",
+      "image": {
+        "id": "bb2057fa1f56f8e572d0459dd87a913ba2aefaa214dcdc206f6c265231e1e0c7",
+        "url": "https://picsum.photos/849/590?random=9",
+        "alt": "Featured image for: Advanced Soap Candle Making Tutorials Techniques",
+        "width": 849,
+        "height": 590
+      }
+    }
+  ]
+}

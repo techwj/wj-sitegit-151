@@ -1,0 +1,59 @@
+{
+  "siteId": "soap-candle-making",
+  "generatedAt": "2026-06-04T11:36:45.370463",
+  "categories": [
+    "beginner-soap-candle-making",
+    "advanced-soap-candle-making",
+    "tips-soap-candle-making",
+    "history-soap-candle-making",
+    "trending-soap-candle-making",
+    "tutorials-soap-candle-making"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-soap-candle-making",
+      "category_name": "Beginner Soap Candle Making"
+    },
+    {
+      "category_slug": "advanced-soap-candle-making",
+      "category_name": "Advanced Soap Candle Making"
+    },
+    {
+      "category_slug": "tips-soap-candle-making",
+      "category_name": "Soap Candle Making Tips"
+    },
+    {
+      "category_slug": "history-soap-candle-making",
+      "category_name": "Soap Candle Making History"
+    },
+    {
+      "category_slug": "trending-soap-candle-making",
+      "category_name": "Trending Soap Candle Making"
+    },
+    {
+      "category_slug": "tutorials-soap-candle-making",
+      "category_name": "Soap Candle Making Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "soap-candle-making",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Soap Candle Making Central",
+    "articles_per_row": 4
+  }
+}

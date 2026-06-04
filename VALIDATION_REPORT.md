@@ -1,0 +1,88 @@
+# Validation Report - soap-candle-making
+
+Generated: 2026-06-04T11:36:45.370045
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Soap Candle Making
+- ✓ Article word count OK: Beginner Soap Candle Making: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Soap Candle Making
+- ✓ Article word count OK: Beginner Soap Candle Making Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Soap Candle Making
+- ✓ Article word count OK: Beginner Soap Candle Making in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Soap Candle Making
+- ✓ Article word count OK: Common Mistakes in Beginner Soap Candle Making
+- ✓ Article word count OK: Beginner Soap Candle Making for Beginners
+- ✓ Article word count OK: Advanced Beginner Soap Candle Making Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Soap Candle Making
+- ✓ Article word count OK: Advanced Soap Candle Making: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Soap Candle Making
+- ✓ Article word count OK: Advanced Soap Candle Making Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Soap Candle Making
+- ✓ Article word count OK: Advanced Soap Candle Making in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Soap Candle Making
+- ✓ Article word count OK: Common Mistakes in Advanced Soap Candle Making
+- ✓ Article word count OK: Advanced Soap Candle Making for Beginners
+- ✓ Article word count OK: Advanced Advanced Soap Candle Making Techniques
+- ✓ Article word count OK: The Ultimate Guide to Soap Candle Making Tips
+- ✓ Article word count OK: Soap Candle Making Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Soap Candle Making Tips
+- ✓ Article word count OK: Soap Candle Making Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Soap Candle Making Tips
+- ✓ Article word count OK: Soap Candle Making Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Soap Candle Making Tips
+- ✓ Article word count OK: Common Mistakes in Soap Candle Making Tips
+- ✓ Article word count OK: Soap Candle Making Tips for Beginners
+- ✓ Article word count OK: Advanced Soap Candle Making Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Soap Candle Making History
+- ✓ Article word count OK: Soap Candle Making History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Soap Candle Making History
+- ✓ Article word count OK: Soap Candle Making History Tips and Best Practices
+- ✓ Article word count OK: The History of Soap Candle Making History
+- ✓ Article word count OK: Soap Candle Making History in 2026: Current Trends
+- ✓ Article word count OK: Future of Soap Candle Making History
+- ✓ Article word count OK: Common Mistakes in Soap Candle Making History
+- ✓ Article word count OK: Soap Candle Making History for Beginners
+- ✓ Article word count OK: Advanced Soap Candle Making History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Soap Candle Making
+- ✓ Article word count OK: Trending Soap Candle Making: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Soap Candle Making
+- ✓ Article word count OK: Trending Soap Candle Making Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Soap Candle Making
+- ✓ Article word count OK: Trending Soap Candle Making in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Soap Candle Making
+- ✓ Article word count OK: Common Mistakes in Trending Soap Candle Making
+- ✓ Article word count OK: Trending Soap Candle Making for Beginners
+- ✓ Article word count OK: Advanced Trending Soap Candle Making Techniques
+- ✓ Article word count OK: The Ultimate Guide to Soap Candle Making Tutorials
+- ✓ Article word count OK: Soap Candle Making Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Soap Candle Making Tutorials
+- ✓ Article word count OK: Soap Candle Making Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Soap Candle Making Tutorials
+- ✓ Article word count OK: Soap Candle Making Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Soap Candle Making Tutorials
+- ✓ Article word count OK: Common Mistakes in Soap Candle Making Tutorials
+- ✓ Article word count OK: Soap Candle Making Tutorials for Beginners
+- ✓ Article word count OK: Advanced Soap Candle Making Tutorials Techniques
+- ✓ Ad configuration validated
